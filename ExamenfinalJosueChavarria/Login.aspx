@@ -42,7 +42,6 @@
 					<a href="#forgot">Forgot Password?</a>
 					<p>
             &nbsp;</p>
-					<asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
 				    <br />
                     <br />
 				</div>

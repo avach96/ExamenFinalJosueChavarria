@@ -71,17 +71,18 @@
     <Content Include="CatalogoTipoArticulos.aspx" />
     <Content Include="CatalogoTipoUsuarios.aspx" />
     <Content Include="CatalogoUsuarios.aspx" />
+    <Content Include="CSS\buttons.css" />
     <Content Include="CSS\Gridview.css" />
     <Content Include="CSS\home.css" />
     <Content Include="CSS\logincss.css" />
     <Content Include="CSS\registercss.css" />
     <Content Include="CSS\Master.css" />
     <Content Include="Home.aspx" />
-    <Content Include="HomeUser.aspx" />
     <Content Include="imagenes\background.png" />
     <Content Include="Login.aspx" />
     <Content Include="Register.aspx" />
     <Content Include="Reportes.aspx" />
+    <Content Include="SQL Query\SQLQuery2.sql" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -121,13 +122,6 @@
     </Compile>
     <Compile Include="Home.aspx.designer.cs">
       <DependentUpon>Home.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="HomeUser.aspx.cs">
-      <DependentUpon>HomeUser.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="HomeUser.aspx.designer.cs">
-      <DependentUpon>HomeUser.aspx</DependentUpon>
     </Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
